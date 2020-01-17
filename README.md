@@ -1,4 +1,4 @@
-# runes
+# Runes
 Procedurally generated runes.
 
 ![runes](https://i.imgur.com/xTGBNy2.png)
